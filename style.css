@@ -1,7 +1,32 @@
-h1 {color: crimson;}
-header {background: bisque;}
-h2 {color: rgb(11, 112, 184);background: #4d3f36;}
-article {color: chartreuse;}
-p {color: chocolate;}
-section {background: rgb(96, 0, 128);}
-footer {background: #2bb29e;}
+body {
+	background: #2387AA;
+}
+
+h1 {
+	color: crimson;
+}
+
+header {
+	background: bisque;
+}
+
+h2 {
+	color: rgb(11, 112, 184);
+	background: #4d3f36;
+}
+
+article {
+	color: chartreuse;
+}
+
+p {
+	color: chocolate;
+}
+
+section {
+	background: rgb(96, 0, 128);
+}
+
+footer {
+	background: #2bb29e;
+}
