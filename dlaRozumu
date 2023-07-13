@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TNTW - dla rozumu</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <main>
+        <header id="top">
+            <h1>
+                Dla rozumu
+            </h1>
+        </header>
+        <section>
+            <h2>
+                Dla rozumu
+            </h2>
+            <p>Statystycznie co 3. kobieta...</p>
+            <article>
+                <h3>Statystyki w Polsce</h3>
+                <p>Według statystyk co 3. kobieta w Polsce...</p>
+            </article>
+            <article>
+                <h3>Statystyki na świecie</h3>
+                <p>Według statystyk co 3. kobieta na świecie...</p>
+            </article>
+        </section>
+        <footer>
+            <p>Strona Fundacji TNTW.<br><br>
+            <strong><a href=#top>Wróć na górę!</a></strong></p>
+        </footer>
+    </main>
+</body>
+
+</html>

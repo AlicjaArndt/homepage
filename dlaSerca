@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TNTW - dla serca</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <main>
+        <header id="top">
+            <h1>
+                Dla serca
+            </h1>
+        </header>
+        <section>
+            <h2>
+                Dla serca
+            </h2>
+            <p>Według psychologów najlepszą terapią...</p>
+            <article id="poradyDlaKobiet">
+                <h3>Porady dla kobiet</h3>
+                <p>Jeśli doświadczyłaś...</p>
+            </article>
+            <article id="poradyDlaMezow">
+                <h3>Porady dla mężów/partnerów</h3>
+                <p>Jeśli Twoja partnerka doświadczyła...</p>
+            </article>
+        </section>
+        <footer>
+            <p>Strona Fundacji TNTW.<br><br>
+            <strong><a href=#top>Wróć na górę!</a></strong></p>
+        </footer>
+    </main>
+</body>
+</html>
