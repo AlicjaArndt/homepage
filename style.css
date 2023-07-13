@@ -30,3 +30,7 @@ section {
 footer {
 	background: #2bb29e;
 }
+a {color: black;}
+section a {color: violet;}
+nav {background: violet;}
+.art {background-color: beige;}
