@@ -30,9 +30,37 @@ section {
 footer {
 	background: #2bb29e;
 }
-a {color: black;}
-section a {color: violet;}
-nav {background: violet; color:grey;display: inline;}
-.art {background-color: beige;}
-.diva {background: violet; color:grey;display: inline-block;}
-.foty {max-width: 700px; max-height: 400px;}
+
+a {
+	color: black;
+}
+
+section a {
+	color: violet;
+}
+
+nav {
+	background: violet;
+	color: grey;
+	display: inline;
+}
+
+.art {
+	background-color: beige;
+}
+
+.diva {
+	background: violet;
+	color: grey;
+	display: inline-block;
+}
+
+.foty {
+	max-width: 700px;
+	max-height: 400px;
+	padding: 30px;
+	border: 20px groove #b1adad;
+	border-bottom: 20px groove #ffffff;
+	border-radius: 50%;
+	margin: 20px;
+}
